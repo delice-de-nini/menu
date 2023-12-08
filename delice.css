@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(32, 1, 36);
+    font-family: "serif72-beta-bold";
+    font-size: 35px;
+    color:rgb(210, 216, 125);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: #F0D56A;
+}
